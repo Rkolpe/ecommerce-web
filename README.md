@@ -5,8 +5,8 @@ Stylespher is a fully responsive ecommerce website, maximum compatiblities in al
 
 ## Demo
 
-![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![ Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Desktop Demo]()
+
 
 ## Installing 
 
